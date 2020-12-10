@@ -1,0 +1,2 @@
+type = "line-corpus"
+metadata = [{name = "uid", type = "string"}]
